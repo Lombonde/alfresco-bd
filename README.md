@@ -30,7 +30,7 @@ Credenciais padrão (sobrescrevíveis via `.env`):
 ## Volumes
 
 - `postgres_data` — dados do PostgreSQL
-- `./alf_data` — contentstore/keystore do Alfresco (não versionado)
+- `./alf_data` — contentstore/keystore do Alfresco (incluído no repositório para arranque)
 
 ## Init
 

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><component>
+      <guid>page.title.user~svc-alfresco~dashboard</guid>
+      <scope>page</scope>
+      <region-id>title</region-id>
+      <source-id>user/svc-alfresco/dashboard</source-id>
+      <url>/components/title/user-dashboard-title</url>
+    </component>

@@ -1,0 +1,22 @@
+#
+# Alfresco version information
+#
+
+# Version label
+
+version.major=7
+version.minor=3
+version.revision=0
+version.label=
+
+# Edition label
+
+version.edition=Community
+
+# SCM Revision number
+
+version.scmrevision=https://github.com/Alfresco/alfresco-community-repo-r55faedde
+
+# Build number
+
+version.build=r55faedde-b7346
