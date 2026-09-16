@@ -1,0 +1,6 @@
+.DS_Store
+alf_data/
+alf_data-*/
+*.env
+.env.*
+!*.env.example
